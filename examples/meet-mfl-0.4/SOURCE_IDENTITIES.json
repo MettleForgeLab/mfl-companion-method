@@ -1,0 +1,36 @@
+{
+  "method_documentation": "MFL Companion Method v1.0.0, 18 November 2026",
+  "example": {
+    "pdf_edition": "02",
+    "companion_edition": "0.4",
+    "message": "Existing generic approved wording; no recipient personalization."
+  },
+  "source_container_observed": {
+    "bytes": 5022209,
+    "sha256": "7968bf174369d72fd1929942901980251e1751d076ed851efc745f1c924789dd"
+  },
+  "source_member_names": {
+    "pdf": "Meet_MFL_A_Look_Around_Package/Meet_MFL_A_Look_Around.pdf",
+    "companion": "Meet_MFL_A_Look_Around_Package/Meet_MFL.txt"
+  },
+  "example_files": {
+    "Meet_MFL_A_Look_Around.pdf": {
+      "bytes": 6166857,
+      "sha256": "095fadbc4356e325e4248317fe296c3a7d0eeb0a1bb70bdbbda61a2bd5e4e5bc"
+    },
+    "Meet MFL.txt": {
+      "bytes": 30643,
+      "sha256": "45c7f2e117422ccd9ab109da4c496262d53a10dce1be144a2ee9a70c00de9080"
+    },
+    "MESSAGE.md": {
+      "bytes": 554,
+      "sha256": "64eb66a69cc989052e95cafe137433d7e9f1709d2c1f2aa25badcd51241168ac"
+    }
+  },
+  "normalizations": [
+    "Removed the enclosing source-container directory in the new example.",
+    "Named the companion Meet MFL.txt to match its stable filename and accepted PDF directions.",
+    "Copied the unchanged generic personal message into MESSAGE.md."
+  ],
+  "public_rights": "CC BY 4.0 for MFL-controlled material, subject to the exact scope in repository LICENSE and RIGHTS.md."
+}

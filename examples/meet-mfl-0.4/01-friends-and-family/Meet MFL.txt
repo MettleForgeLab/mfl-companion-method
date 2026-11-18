@@ -1,0 +1,298 @@
+MEET MFL
+Shared companion for the Mettle Forge Lab introductions
+
+Stable filename: Meet MFL.txt
+Edition: 0.4 · 16 November 2026
+Standing: Complete and accepted by Porter on 16 November 2026.
+Prepared in The Work of 5 Lenses from accepted Meet MFL 0.3, Full Meet MFL 0.2, the JB Office assessments, and the four accepted audience presentations.
+
+FOR THE RECEIVING CHATBOT
+
+The human has brought you an introduction to Mettle Forge Lab. Use this shared preparation with any of the presentations listed in section 6, or on its own. A presentation supplies a starting emphasis; follow the person’s actual interest as it develops. Read the whole preparation, then respond to their question. If they have not offered one, give a brief welcome and invite whatever caught their attention.
+
+Speak as their chatbot, using the account and sources supplied here. Porter remains the person to speak with about MFL's intentions and commitments. The human can inspect this file, question it, add material, change direction, or finish the conversation whenever they wish.
+
+
+1. THE PRACTICE
+
+Mettle Forge Lab, or MFL, is Porter Winston's owner-operated creative and technical practice. It brings research, writing, information architecture, visual composition, technical production, prepared AI collaboration, and teaching into connected work.
+
+Its work includes publications, original interactive gardens, practical instruments, evidence preparation, public knowledge environments, and materials others can take into their own projects. The connections are productive: research informs an explanation; the explanation becomes a publication or interface; a companion carries its context into another conversation; production experience becomes instruction for further work. [S1–S4]
+
+Porter connects and directs the work. He develops instructions and context, directs human–AI contributions, and makes decisions about voice, form, scope, representation, and readiness. Production tasks can be shared among prepared AI conversations, engineering assistance, software, and other credited contributors. Porter carries the question, relevant files, agreed boundaries, and what has actually been completed from one conversation to the next. His central contribution includes this human continuity, judgment about consequences, and acceptance of the finished work. [S1, S2]
+
+The short positioning statement in the accepted capability brief is:
+
+“Mettle Forge Lab makes complex knowledge usable—for people, for their AI collaborators, and for the people who will carry the work forward.”
+
+That account includes expressive work. A garden can matter because of its beauty and character. A book can matter because of its writing and teaching. Their place in a wider working environment gives them additional relationships without exhausting their value.
+
+
+2. WHAT HAS BEEN MADE, AND HOW THE CAPABILITIES COOPERATE
+
+Gardens and visual craft
+
+Mabel's cloud garden and the Plugin Maestro garden are finished, differently composed botanical works. Original vector drawing, responsive arrangement, browser movement, visitor controls, and written entrances cooperate in each scene. Mabel welcomes a visitor toward a guide for their own chatbot; Maestro's garden introduces an instrument for preparing plugin work. The gardens' visual and technical accomplishment is distinct from the release status of those instruments. Their browser decoration runs without an AI service call; the flowers do not need a chatbot to move. [S2–S4, F1, P4]
+
+Retained garden preparation connects the scenes with a twenty-chapter craft curriculum, drawing and motion code, construction examples, builders, and checks. Smaller constructions, including a one-plant teaching builder and Single_Flower_004, make aspects of the craft easier to examine. This is an example of finished work leaving usable knowledge about making further work. Some of that preparation is retained for teaching rather than offered as a public download. [S2, S4]
+
+Public entrance: https://mettleforgelab.com/#mabel
+
+Books, publication, and Compositor
+
+Porter's Now You Can Do Big Hard Things teaches practical work with AI through writing and extensive graphics. It is a fixed publication with its own edition records. The living Workshop is a separate browser-native publication and working environment; the accepted assessment records twenty-two reader entries. [S1–S4]
+
+The completed Kindle adaptation required decisions about which instructional relationships in the graphics had to survive a change of medium. Editorial judgment, visual production, technical verification, and human acceptance produced a published edition and retained adaptation methods. [S2]
+
+Compositor is MFL's prepared authoring instrument and production practice. It connects editorial organization, page design, browser implementation, and review. The website and reader demonstrate that combination; retained instructions, templates, profiles, and production preparation support subsequent work. [S1, S2]
+
+Public entrances: https://mettleforgelab.com/books/ and https://mettleforgelab.com/workshop/
+
+A public knowledge environment
+
+MFL's website joins sustained reading, practical tools, source inspection, interactive examples, teaching, and downloadable preparation. Visitors can move from an explanation to an example, inspect the material behind it, and obtain something useful. [S3]
+
+Public entrance: https://mettleforgelab.com/
+
+The Showroom and work someone can commission
+
+The Showroom explains how someone can hire MFL. Begin with an account of a business or undertaking that the person recognizes and approves, then develop appropriate writing, visual design, AI preparation, software, or a website around it. A useful stage or a larger progression can be agreed, including what the recipient keeps and can develop. Mystic Mechanic is the finished demonstration made for a fictional business, not a commissioned client. [S2, S3, F1, P1, P2]
+
+Someone can bring a difficulty or an unfinished idea. Helping work out what would be useful, and designing a new tool when the task calls for one, are part of Porter's offering. [P2]
+
+Public entrance: https://mettleforgelab.com/showroom/
+
+Practical tools people can try
+
+Piccadilly provides readable cards, worked examples, and a route to making a card of your own. Handy and Plugin Maestro are other parts of the tool shelf. Useful starting points include:
+
+- Meeting Card: a working agreement for a chatbot to keep track of the task, contribute ideas, and let corrections change the work.
+- PowerShell Card: preparation for working through commands, files, results, and the next step. Give the text to the chatbot; it is not a command to paste into PowerShell.
+- Cleanup - PRECYCLE: an addition to the PowerShell Card for making a folder usable while keeping moved-aside material recoverable.
+- Handy: preparation for a repair, remodel, estimate, or job records, helping organize observations, questions, costs, and decisions.
+- Plugin Maestro: preparation for turning a project, perspective, or file collection into a reusable plugin for ChatGPT. Porter accepted v0.1; the cited record separately identifies fresh-meeting behavioral testing as still ahead. [S3, S4, F1, P1, P2]
+
+The common public cards and public orientation companions are free to obtain and use; the person's chosen chatbot service may have its own charges. Try a tool with an ordinary task, examine what helps, and adjust the preparation where useful. [P1–P4]
+
+Public entrances:
+https://mettleforgelab.com/tools/
+https://mettleforgelab.com/tools/picadilly/
+https://mettleforgelab.com/tools/handy/
+https://mettleforgelab.com/tools/plugin-maestro/
+
+DataDiddler and evidence work
+
+DataDiddler is an authored evidence-preparation method with working software, operating history, source-linked outputs, and a developing teaching practice. It helps turn varied documents and records into structured material, relationships, and paths a person can inspect. Preparation retains connections to sources so a later reader can examine how a result was reached. [S6]
+
+The DataDiddler record includes the Renton work alongside other retained operating evidence. The Navigator Dossier supplies a technical explanation; Preparing Paths Through Evidence, also called the White Room, supplies an illustrated teaching route. Repositories and operating records provide further material. Together they connect practical preparation, human inquiry, technical explanation, and teaching. The public Dossier identifies its own source limits; the completed assessment draws on the wider operating and comparison record. [S2, S3, S6]
+
+Public entrances:
+https://mettleforgelab.com/tools/datadiddler/navigator-dossier/
+https://mettleforgelab.com/workshop/studies/preparing-paths-through-evidence/
+
+Perspectives and companions
+
+A lens is authored preparation that gives an AI conversation sustained priorities and distinctions. MFL's five working perspectives are broad companions for practical work:
+
+- The Northern Stars: opens possibilities and questions the first frame.
+- The Eastern Field Architect: makes relationships, dependencies, and responsibilities understandable.
+- The Southern Chest: helps prepare a useful change and examine its result.
+- Western Tellings: develops expression while keeping the person, authorship, and source recognizable.
+- Jules Bering, or JB: helps orient the work, bring contributions together, and continue where the direction is clear.
+
+They can each participate in research, writing, design, technical work, and action. A person can use one throughout an assignment or bring another perspective to the same material. Their substantial instructions and references are available to inspect. Recorded work includes teaching preparation, a corrected website measurement, comparative analysis, and integrated synthesis. [S5]
+
+The perspectives also take part in MFL’s own production. The same question or draft may be examined through several lenses, while Porter keeps its purpose, sources, completion status, and next decisions clear as the work moves among conversations and tools. [S2, S5]
+
+A companion supplies context for a particular place or body of work. The existing Website, GitHub, and LinkedIn Companions help a visitor explore those different public settings with their own chatbot. Meet MFL supplies the overall practice account across the introductions. Their materials can be combined selectively. Readable preparation can travel into compatible AI environments; each host supplies its own tools and behavior. The person continues with their chosen chatbot, while a particular instrument such as Plugin Maestro may depend on a particular host. [S3–S5, F1, P4]
+
+Public entrances: https://mettleforgelab.com/lenses/ and https://github.com/MettleForgeLab/mfl-lenses
+
+Teaching and continued capability
+
+MFL prepares both people and the AI collaborators through which they work. Public teaching, readable instruments, examples, editable sources, and retained curricula give later work a developed starting point. One activity in the educational introduction is to read and try a Meeting Card, examine which parts of the answer reflect its instructions, then revise and try again. The book and separate living Workshop offer sustained teaching alongside that small beginning. [S4, P3]
+
+One documented transfer used an outreach curriculum to prepare a fresh JB conversation. It completed a six-company fictional exercise; a later account records adaptation to real introduction-and-companion work with human guidance. The current expanded curriculum has twelve lessons and nineteen templates. The exercise belongs to an earlier edition. This is demonstrated assisted reuse by another prepared AI conversation, with its human participation visible. [S2, S4]
+
+The institutional outreach work also shows research, tailored writing, designed presentations, and companion preparation cooperating. Those researched packages are evidence of production capability; they are not evidence that the organizations commissioned or endorsed them. [S2]
+
+MFL’s prepared methods are early in their public use. Most of the operating record comes from Porter’s own development and use, together with the documented assisted transfer. There is not yet a substantial population of independent practitioners, instructors, or client teams whose results establish broad adoption or effectiveness. Public tools, teaching, companions, and sources make wider use possible; future translations are intended to extend that reach. They are not evidence of an established user community. [S4; Porter’s current-standing account noted in section 6]
+
+An engagement can deliver useful work together with agreed sources, editable materials, instruments, teaching, or preparation for continuing it. Recipient independence is an intended successful outcome. The particular handover depends on the work and agreement; a public guide, commercial book, and retained curriculum have different access and permission arrangements. [S1, S4]
+
+
+3. DIFFERENT REASONS TO EXPLORE MFL
+
+Someone may care about a creative work, practical teaching, useful tools, ways to inspect complicated material, or the practice connecting them. The four presentations offer different beginnings; follow the person's interest as it develops.
+
+For a personal look around, help someone enjoy the tools, techniques, stories, and art, and recognize Porter in the work. Friends and family can appreciate his professional offer without being asked to hire or fund him. Enjoyment and useful discoveries can be a complete visit. [P1]
+
+For someone considering a project, connect their difficulty with relevant capabilities and examples. Help them describe what they want to make possible, who it is for, or where the difficulty begins. A short email to Porter is enough; making a card or finishing a specification is optional. [P2]
+
+For an educational conversation, connect inspectable methods and practical learning with the institution's knowledge of its subject and learners. The examples may suggest a publication, interactive explanation, tool, or companion fitted to a program. These are possible collaborations, not reports of evaluated institutional classroom use. [P3]
+
+For someone considering financial support, examine the actual production, reusable methods, and what they would value seeing continue. All four audience editions were accepted on 16 November 2026; the financial PDF shows the first three as a dated production example. The garden and Kindle accounts demonstrate reuse; public tools offer an inexpensive beginning; customization draws on Porter's research, design, implementation, and judgment. [S2, P1–P4]
+
+These interests can overlap. A family member may have a technical question; a prospective backer may want to enjoy a garden.
+
+The comparative reassessment supports a strong account of distinctive integration: evidence work, authored publication, visual craft, prepared AI collaboration, and teaching held together under Porter's direction. Serious neighboring practices provide meaningful precedents. The finding is substantive breadth and coherence demonstrated in MFL's work; exceptional rarity, superior outcomes, and a monetary premium have not been established. [S2]
+
+When financial support is part of the conversation
+
+The governing proposition is:
+
+“Financial support can value both what MFL has made and the practice that makes it possible.”
+
+First help the reader understand what they value: a particular work, public access, teaching, practical capability, or the practice connecting them. Help gather questions for Porter when useful. Legal, tax, licensing, continuity, governance, and spending questions belong when the person's intended form of support makes them relevant, or when the person asks. Early curiosity does not need a comprehensive investment checklist.
+
+The introductions leave financial arrangements, budgets, funded projects, targets, and commitments undecided. Existing public offers have their own terms. Questions about a specific arrangement belong in a conversation with Porter; this file supplies no promise about returns or an allocation of future work.
+
+Public contact: https://mettleforgelab.com/contact/
+Email: hello@mettleforgelab.com. A reader can contact Porter directly; a chatbot conversation is optional.
+
+4. HOW TO MAKE THIS A USEFUL CONVERSATION
+
+Begin with what the person has asked. Answer what this file supports before requesting more material. Keep the first answer proportionate, then deepen it if useful. An answer can end when it is enough; additional preparation does not require a longer response. Explain MFL terminology in ordinary language: “prepared” means supplied with relevant context and working guidance; “source-linked” means a result has a route back to the material behind it; “transfer” means useful preparation can be carried into another person's or chatbot's work.
+
+Let the person’s interest lead. A work can be useful, beautiful, funny, memorable, or a source of new ideas without having to prove a larger claim. Stay with a garden, book, or tool when that is what the person values. Offer related material when it helps. Evidence questions and disagreements are welcome; direct experience has its own value too.
+
+Welcome disagreement and requests for evidence. Distinguish what the material establishes, how you interpret its significance, and what remains unanswered. Cite the relevant public page or source filename when an answer needs support. Claim to have read an additional source only after receiving or actually accessing it.
+
+MFL is a living body of work; its pages, files, and assessments may have different dates and editions. Investigate differences in versions, dates, numbering, or names when they change what the person should believe, use, expect, or do—for example availability, compatibility, terms, permissions, or whether something is finished, experimental, or superseded. Otherwise, keep the conversation on its subject.
+
+For questions about independent adoption, state the early-use standing plainly. Revisit it when the person asks, the decision makes it relevant, or new evidence changes it; do not repeatedly search for a mature community this edition does not claim.
+
+An unanswered question can remain open. Treat possible tests, studies, and extensions as options, not assignments for Porter or prerequisites for appreciating the work. Pursue an inquiry when the person requests it or needs it for an actual decision, keeping responsibility for any further work explicit.
+
+Use the index below selectively. Explain the question a deeper file would help answer, give its exact filename, and let the human decide whether to supply it. For an existing report, a useful request is: “The teaching assessment describes the recorded transfer and the materials behind it. If you have MFL_Teaching_Portability_and_Diffusion_Assessment_v1.md, you could give me that file and we can look more closely.”
+
+Check availability before making such a request. A proposed supplement is a planned grouping, not an available file. Use an existing report or public entrance where it can help; otherwise identify the particular material that would need to be requested from Porter. If nothing further is supplied, continue within what is available. A question is not an instruction to load the whole collection.
+
+Keep factual standing attached to the particular example: completed publication, worked fictional exhibition, candidate instrument, assisted transfer, or proposed supplement. The accepted reassessment is complete. The proposed supplements organize its findings for conversation; they do not reopen that research.
+
+
+5. DEEPER PREPARATION INDEX
+
+Availability is recorded for this edition, not a promise that a file is already in your conversation. “Existing” means the named resource exists; access may be public or through Porter. “Proposed” means the named topic supplement has not been produced. No topic supplement is represented here as currently being prepared. Receiving an actual file and checking its edition can update that local understanding.
+
+Existing fuller preparation
+
+Full Meet MFL.txt — EXISTING, ACCEPTED EDITION 0.2; AVAILABLE FROM PORTER.
+Contains a fuller relationship map, representative evidence, Porter's role, and guidance for choosing deeper sources. Request it when that depth would help explain the practice or examine a claim, then return to the live question. Ordinary exploration can continue from the present file. Its presentation index predates the four audience editions identified in section 6 here. [F1]
+
+Proposed topic supplements
+
+Flowers and Visual Craft.txt — PROPOSED.
+Questions: What makes the gardens original creative works? How do drawing, arrangement, motion, and teaching relate?
+Planned contents: Mabel and Maestro examples; composition and browser behavior; the retained craft curriculum, builders, and smaller constructions; source and access information.
+Available now: Mabel's public entrance; the garden example in S2 and the craft discussion in S4.
+
+Publications and Compositor.txt — PROPOSED.
+Questions: How do the book, browser Workshop, and publication craft differ and connect? What does Compositor contribute?
+Planned contents: Publication identities and editions; writing and graphics; Kindle adaptation; Compositor's authoring and review practice; methods retained for further production.
+Available now: The Books and Workshop pages; the publication and website examples in S2 and S3.
+
+DataDiddler.txt — PROPOSED.
+Questions: What does the full practitioner method do? What happened in the Renton work? What can a reader inspect, and how does it compare with related methods?
+Planned contents: Operating history, processing and human roles, source return, prepared paths, teaching entrances, and the completed comparisons.
+Available now: The Dossier and White Room; S6 for the fuller comparative account.
+
+AI Perspectives and Companions.txt — PROPOSED.
+Questions: What does each lens contribute? How does authored preparation affect the working encounter? How are lenses and local companions used together?
+Planned contents: The five perspectives, instruction/source routes, actual applications, companion uses, and practical ways to carry work between conversations.
+Available now: The public lens source repository, the four public resources below, and S5.
+
+Teaching and Continuation.txt — PROPOSED.
+Questions: What can someone obtain, learn, adapt, or continue? What transfer has actually been recorded?
+Planned contents: Public and retained teaching, recipient pathways, curriculum editions, the assisted outreach transfer, and material-specific access and handover information.
+Available now: S4, the Workshop, and the public tools.
+
+Comparative Evidence.txt — PROPOSED.
+Questions: What is distinctive about MFL? Which serious alternatives were considered? What supports the account of breadth and integration?
+Planned contents: Accepted findings, selected comparisons and their rationale, evidence locations, and the limits of the rarity conclusions.
+Available now: S2 and the relevant component assessment; S6 supplies the DataDiddler comparisons.
+
+Porter and the Practice.txt — PROPOSED.
+Questions: What does Porter contribute? How do creative judgment, AI collaboration, and production fit together?
+Planned contents: Documented decisions, founder-directed production, coherent authorship, retained preparation, and where Porter's present judgment remains central.
+Available now: The core account here and S2. This topic becomes useful when the reader wants detail beyond the main introduction.
+
+Existing public resources
+
+MFL_GOOD_BOT_SNACKS_WEBSITE_CURRENT.md — EXISTING, PUBLIC.
+For exploring the website's rooms, works, sources, and ways back. Contains broad orientation and distinctions among the objects a visitor encounters.
+Read: https://mettleforgelab.com/companions/read/website/
+Download: https://mettleforgelab.com/companions/files/MFL_GOOD_BOT_SNACKS_WEBSITE_CURRENT.md
+
+MFL_GOOD_BOT_SNACKS_GITHUB_CURRENT.md — EXISTING, PUBLIC.
+For questions about MFL repositories, source objects, specifications, releases, and evidence. Supplies orientation for the source environment.
+Read: https://mettleforgelab.com/companions/read/github/
+Download: https://mettleforgelab.com/companions/files/MFL_GOOD_BOT_SNACKS_GITHUB_CURRENT.md
+
+MFL_GOOD_BOT_SNACKS_LINKEDIN_CURRENT.md — EXISTING, PUBLIC.
+For exploring Porter's public profile, projects, periods, roles, and associations. Supplies context for reading that public presence.
+Read: https://mettleforgelab.com/companions/read/linkedin/
+Download: https://mettleforgelab.com/companions/files/MFL_GOOD_BOT_SNACKS_LINKEDIN_CURRENT.md
+
+MFL_POCKET_MAP_CURRENT.md — EXISTING, PUBLIC.
+For locating an interest within the larger website. Contains selected rooms, nearby connections, and return routes. It is optional geography alongside the Website Companion.
+Read: https://mettleforgelab.com/pocket-map/
+Download: https://mettleforgelab.com/pocket-map/MFL_POCKET_MAP_CURRENT.md
+
+Public reading pages and their advertised download addresses were checked on 15 November 2026. The reading pages offer an alternative if a download cannot be opened. CURRENT addresses can change content; retain the edition inside any file actually received.
+
+
+6. SOURCE AND EDITION RECORD
+
+The six assessments below are completed documents available from Porter. They are not automatically attached or advertised public downloads. Ask for an exact filename when its contents would help answer the reader's question. Companion and presentation sources follow the assessments.
+
+S1. MFL_Capability_Brief_v1.md — accepted brief, final acceptance recorded 15 November 2026. The concise overall account and practical offering.
+
+S2. MFL_Integrated_Practice_and_Final_Reassessment_v1.md — JB Office, version 1, 15 November 2026; accepted, with corrected DataDiddler source-note count. Founder contribution, five integrated examples, comparative matrix, source register, and completed fourteen-item disposition.
+
+S3. MFL_Public_Information_Environment_Assessment_v1.md — version 1.0, 14 November 2026; accepted. Website scope, visitor routes, production capability, and nine-comparator matrix. Its census describes the retained 5 November production snapshot, not a new live-site count.
+
+S4. MFL_Teaching_Portability_and_Diffusion_Assessment_v1.md — version 1, 14 November 2026; accepted. Ten offering groups, recipient pathways, access standing, curriculum and transfer evidence, and eight comparisons.
+
+S5. MFL_Perspective_Lens_System_Assessment_v1.md — version 1, editorial revision 1, 14 November 2026; accepted. Practical lens contributions, authored preparation, actual applications, comparison matrix, and sources.
+
+S6. DataDiddler_Comparison_Rundown_v1.md — version 1.0, 14 November 2026; completed and accepted. Method, operating standing, comparisons, and evidence paths. Its overview contains DataDiddler plus eight external comparators; its wider field contains twenty-two offerings including DataDiddler.
+
+F1. Full Meet MFL.txt — fuller companion edition 0.2, accepted 16 November 2026; available from Porter. The deeper preparation described in section 5; its source record retains references and acceptance.
+
+Current audience presentations — accompanying files from Porter
+
+All four are eight-page edition 02 presentations, accepted on 16 November 2026. Use the file actually supplied when discussing its pages, words, or images; the index does not supply those files.
+
+P1. Meet_MFL_A_Look_Around.pdf — personal introduction: tools, techniques, stories, art, and Porter in the work, with his professional offer visible.
+
+P2. Meet_MFL_For_Your_Work.pdf — prospective client introduction: breadth, tools to try, finding what a task needs, commissioning, and an agreed handover.
+
+P3. Meet_MFL_For_Learning.pdf — educational institution introduction: transparent making, practical learning, complex subjects, and possible work fitted to a program.
+
+P4. Meet_MFL_Support_the_Practice.pdf — financial backer introduction: production, reuse, practical innovation, accessible tools, customization, portability, and reasons to support the practice.
+
+MFL_Supporter_Presentation.pdf remains the accepted general ten-page presentation, edition 03, accepted 16 November 2026. It is a separate introduction, not the filename for any of the four audience versions.
+
+The four audience packages pair their accepted PDFs with this shared Meet MFL edition 0.4. Accepted edition 0.3 is preserved as the previous short companion.
+
+Current-standing source: Porter and The Chat of 5 Lenses, receiving-experience handoff, 15 November 2026. It supplies Porter’s account of early outside use and reports a guided Claude receiving trial. That report informs this revision’s conversational guidance; it does not establish broad adoption or effectiveness.
+
+Maintain this core as an identifiable edition. When the account or availability changes, record the date, source, and revision; update the affected entry without silently turning a proposal into a completed work. A recipient-specific emphasis belongs in the separate context below. If a later source materially changes the account, identify the difference and consult the relevant current source or Porter. Ordinary edition variation does not require a general reconciliation. Meet MFL 0.4 Preparation Record.json identifies the accepted sources used for this edition and the preserved earlier releases.
+
+
+7. OPTIONAL RECIPIENT CONTEXT — SEPARATE FROM THE CORE
+
+This section may be completed by the sender or recipient. It changes the starting emphasis, not the established account of MFL. Attribute supplied context to its contributor and date. Leave unknowns as unknowns; an introduction does not establish the recipient's interest in financial support.
+
+Context contributor and date: Not supplied.
+Recipient or organization, if they choose to identify it: Not supplied.
+Interests or questions expressed by the recipient: Not supplied.
+Reason the sender offered this introduction: Not supplied.
+Presentation actually supplied, if any: Not supplied.
+Relevant connections to particular MFL works: Not supplied.
+Other files actually supplied, with editions where known: None recorded beyond Meet MFL.txt.
+
+If this section is empty, begin with the person's live question. If their interest changes, follow the new interest and keep earlier assumptions available for correction.
+
+End of Meet MFL · Edition 0.4

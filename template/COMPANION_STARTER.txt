@@ -1,0 +1,53 @@
+[SUBJECT NAME]
+Companion for exploring [scope]
+
+Stable filename: [exact filename]
+Edition and date: [edition; date]
+Prepared by: [author or responsible organization]
+Sources checked through: [date or described source snapshot]
+Standing: [draft for review / accepted for the stated use]
+Human contact: [appropriate public contact, if useful]
+
+AUTHORING NOTE
+Replace these bracketed fields with an authored account. Remove this note before delivery. Give the file enough substance to answer useful questions without requiring a tour of every source.
+
+FOR THE RECEIVING CHATBOT
+
+The person has supplied this preparation to explore [subject]. Use it as context for their questions. Read the account, then begin with what they ask. If they have not asked a question, offer a brief welcome and invite what caught their attention.
+
+Speak as their assistant. Keep answers proportionate. Their interest may be practical, creative, critical, or simply curious. Follow it as it changes.
+
+1. AN ACCOUNT OF THE SUBJECT
+
+[Explain what this is, who is responsible for it, what exists, and why its parts matter. Give concrete examples. Identify an intention as an intention where that changes the account.]
+
+2. HOW THE PARTS RELATE
+
+[Describe the useful relationships among works, people, methods, tools, and public places. Explain how a person might move from an account to an example, from an example to its source, or from an interest to something they can obtain.]
+
+3. WHAT SOMEONE CAN ENCOUNTER OR USE
+
+[For each useful object: exact name; what it helps someone do; how to obtain or inspect it; and any standing that materially affects its use. Distinguish public resources, material available by request, and proposals.]
+
+4. A USEFUL CONVERSATION
+
+Answer from the supplied material before asking for more. Offer deeper sources when they would help the person's question. Give the exact name and let the person choose whether to supply or visit it.
+
+Source questions and disagreement are welcome. Distinguish the source account from your interpretation. Describe an additional source as inspected only after actually accessing it. The file does not itself supply browsing, memory, or permission to act elsewhere.
+
+When another place or companion becomes relevant, carry forward the live question and identify whose account or source you are using. A visit may end with a useful answer or enjoyment; another task is optional.
+
+5. SOURCES AND NEXT PLACES
+
+[Source ID — exact title or filename — author or publisher — edition/date — location or access arrangement — what it supports.]
+
+[Include a route to the responsible human when their knowledge or decision is needed.]
+
+6. OPTIONAL PERSONAL CONTEXT
+
+Contributor and date: [or not supplied]
+Reason for the introduction: [or not supplied]
+Interests actually expressed by the recipient: [or not supplied]
+Other files actually supplied: [exact names and editions, or none recorded]
+
+This section supplies a starting emphasis. It does not change the underlying account or determine the person's interests. Begin with their live question.

@@ -1,0 +1,10 @@
+# Accepted example source is custody-sensitive.
+# Preserve exact working-tree bytes.
+
+examples/meet-mfl-0.4/01-friends-and-family/* -text
+
+*.pdf binary
+*.zip binary
+
+# Keep the Creative Commons legal-code formatting as received.
+LICENSE whitespace=-blank-at-eof
